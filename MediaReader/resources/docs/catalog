@@ -1,0 +1,10 @@
+{
+"count":"3", 
+"sections":
+    [
+     {"name" : "长了红斑真难看 生地帮忙有疗效", "indexname" : "药方一", "imageindex":"2" , "doc": "10001", "id" : "10001", "video" : "a.mov", "pages" : "4", "imagesindex":["2","4"]},
+     {"name" : "小小生地黄 紫癜消褪掉", 	"indexname" : "药方二",	"imageindex":"2" , "doc": "10002", "id" : "10002", "video" : "a.mov", "pages" : "4", "imagesindex":["2","3","4"]},
+     {"name" : "小小薏米仁 可以治痘痘",   "indexname" : "药方三", "imageindex":"2" , "doc": "10003", "id" : "10003", "video" : "a.mov", "pages" : "3", "imagesindex":["2"]},
+     {"name" : "作者介绍",   "indexname" : "沈丕安", "imageindex":"2" , "doc": "20001", "id" : "20001", "video" : "a.mov", "pages" : "1", "imagesindex":["1"]}
+    ]
+}
